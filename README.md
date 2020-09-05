@@ -15,4 +15,4 @@
   $ java CalculatorMain
 ```
 
-<!-- [Simple DEMO](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg) -->
+[Simple DEMO](https://github.com/LeulAria/JavaX-Swing-Calculator/blob/master/app_demo.png)
