@@ -15,7 +15,7 @@
   $ java CalculatorMain
 ```
 
-[Simple DEMO](https://github.com/LeulAria/JavaX-Swing-Calculator/blob/master/app_demo.png)
+![Simple DEMO](https://github.com/LeulAria/JavaX-Swing-Calculator/blob/master/app_demo.png)
 
 ```
 ya i know i dont hate java
